@@ -1,7 +1,7 @@
 # IEORE4501 Tools for analytics final project (2021.12)
 
 ## Group name and section
-section 3
+Group 20 - section 3
 
 
 ## Group member UNI
