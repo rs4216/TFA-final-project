@@ -8,6 +8,7 @@ Group 20 - section 3
 rs4216, fx2183
 
 ## Description of project
-In "Top 10", in order to count the top 10 complain type , I first groupby the dataset by the 'complain type' columns, then sorted the value by descending orders. After that i use head function to show the top 10 value and save it to the top10 variable.
 
-In "Parking", we analyzed whether illegal parking incidents are a larger fraction of total 311 incidents in your ZIP code than they are in general.
+In "top10.ipynb", in order to count the top 10 complaint type , I first use "groupby" to group the dataset by the 'complain type' columns, then sorted the value by descending orders. After that I use "head" function to show the top 10 value and save it to the top10 variable.
+
+In "Parking.ipynb", we analyzed whether illegal parking incidents are a larger fraction of total 311 incidents in our ZIP code than they are in general, by calculating and comparing their respective proportions.
