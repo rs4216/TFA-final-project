@@ -5,6 +5,6 @@ Group 20 - section 3
 
 
 ## Group member UNI
-rs4216, 
+rs4216, fx2183
 
 ## Description of project
